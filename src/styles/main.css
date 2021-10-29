@@ -1,0 +1,130 @@
+body {
+  min-height: 100vh;
+  background: linear-gradient(to bottom right, #051d46 30%,#1250BC 70%, #7ba9fa);
+}
+
+.text-green {
+  color: green !important;
+}
+
+.text-red {
+  color: rgb(163, 7, 7) !important;
+}
+
+.title {
+  color: #1250BC;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.small {
+  font-weight: bold;
+  font-size: 11px;
+  margin-left: -4px;
+  white-space: nowrap;
+}
+
+.small2 {
+  font-weight: bold;
+  font-size: 11px;
+  word-wrap: none;
+  white-space: nowrap;
+}
+
+@media screen and (max-width: 750px) {
+  .small {
+    font-size: 20px;
+    display: none;
+  }
+}
+
+.card-content {
+  padding-top: 12px;
+}
+
+.card-header-title .icon {
+  margin-right: 12px;
+}
+
+.card {
+  background: linear-gradient(50% #7e7e7e,#ebebeb);
+}
+
+.rank {
+  max-width: 60px;
+}
+
+.coin {
+  min-width: 110px;
+}
+
+.price {
+  font-size: 12px;
+}
+
+.news-image {
+  padding: 0;
+}
+
+.news-content {
+  padding-top: 0;
+}
+
+.header-title {
+  width: 100%;
+  display: flex;
+  flex-grow: 1;
+  margin-left: 2rem;
+  font-size: 26px;
+  color: #3d7dec;
+}
+
+.hero .title {
+  font-size: 34x;
+  font-weight: bold;
+  color: #407be2;
+  margin-bottom: 10px;
+}
+
+hr {
+  background: linear-gradient(to left, #ffffff 1%, #407be2c4 10%, #407be2c4 90%, #ffffff 99%);
+  margin: 0;
+  padding-bottom: 0;
+}
+
+.coin-index-card {
+  height: 75px;
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+.coin-index-card:hover {
+  background-color: #407be205;;
+}
+
+.header {
+  padding-bottom: 12px;
+}
+
+.is-link {
+  color: white;
+}
+
+.card-header{
+  display: flex;
+  justify-content: center;
+}
+
+.navbar-item{
+  padding-right: 30px;
+}
+
+.is-half {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
