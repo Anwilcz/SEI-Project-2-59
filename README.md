@@ -1,6 +1,6 @@
 # Project 2 - React Application - Crypto Zone
 
-Group size: ***[Anna Wilczynska](https://anwilcz.github.io), [Rhona Petersen](https://rhonabpetersen.github.io)*** 
+Group size: ***[Anna Wilczynska](https:///github.com/anwilcz), [Rhona Petersen](https:///github.com/rhonabpetersen)*** 
 </br>
 Duration: ***2 days***
 </br>
