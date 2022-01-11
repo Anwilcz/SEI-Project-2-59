@@ -15,6 +15,12 @@ body {
   color: #1250BC;
 }
 
+.main-title {
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+}
+
 .bold {
   font-weight: bold;
 }
@@ -79,6 +85,7 @@ body {
   margin-left: 2rem;
   font-size: 26px;
   color: #3d7dec;
+  color: white;
 }
 
 .hero .title {

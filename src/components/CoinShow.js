@@ -19,7 +19,7 @@ const CoinShow = () => {
       }
     }
     getData()
-  }, [])
+  }, [id])
 
   return (
     <section className="section" >

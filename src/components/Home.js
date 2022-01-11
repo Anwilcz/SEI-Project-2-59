@@ -20,7 +20,7 @@ const Home = () => {
     <section className='section'>
       <div className='container'>
         <div className='hero has-text-centered'>
-          <h1 className='title'>Welcome to the CryptoZone</h1>
+          <h1 className='main-title'>Welcome to the CryptoZone</h1>
         </div>
         <div className='columns is-multiline is-10 is-centered'>
           <p className='header-title'>Crypto rankings</p>
