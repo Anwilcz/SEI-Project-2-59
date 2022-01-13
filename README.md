@@ -95,7 +95,7 @@ Node.js environment is used to provide an extension to use other features. This 
 </br>
 The useEffect React hook executes Axios get requests to retrieve the information from the public API on the initial render and when search parameters included in dependencies array are changed.</br>
 </br>
-The project uses css class-based styling library - Bulma.
+The project uses CSS class-based styling library - Bulma.
 
 ### Featured home page sections
 
@@ -216,11 +216,11 @@ The application was deployed on Netlify.</br>
 ## Key learning
 - Practice sending Axios requests in Node.js environment and processing the data included in the public server response.
 - Learning how to use public API, manage API keys and secure environment variables before the deployment using dotenv. The final project does not use an API that requires a key but we had practice testing other API’s for this project.
-- Trying out a new CSS library - Bulma
+- Trying out a new CSS library - Bulma.
 
 ## Future upgrades
-- Polishing CSS design
-- Making the webpage responsive to the different screen sizes
+- Polishing CSS design.
+- Making the webpage responsive to the different screen sizes.
 - Adding charts to the coin show page showing the price change in time. This was not possible due to the difficulties with accessing a free public API that would provide information about historical listings. 
 - Implementation of a view that would allow comparing selected coins and their mathematical indicators.
 
